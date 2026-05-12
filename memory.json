@@ -1,0 +1,2453 @@
+{
+  "demo_user": {
+    "history": [
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds\n",
+        "nutrition": {
+          "items": [
+            {
+              "food": "oats smoothie",
+              "quantity": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "milk",
+              "quantity": 1,
+              "calories": 120,
+              "protein": 6,
+              "carbs": 10,
+              "fat": 5,
+              "fiber": 0
+            },
+            {
+              "food": "chia seeds",
+              "quantity": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "apple",
+              "quantity": 1,
+              "calories": 55.72,
+              "protein": 1.66,
+              "carbs": 7.62,
+              "fat": 2.23,
+              "fiber": 0.0
+            },
+            {
+              "food": "almonds",
+              "quantity": 1,
+              "calories": 90,
+              "protein": 3,
+              "carbs": 3,
+              "fat": 8,
+              "fiber": 2
+            }
+          ],
+          "totals": {
+            "calories": 437.0,
+            "protein": 17.64,
+            "carbs": 46.76,
+            "fat": 20.19,
+            "fiber": 4.88,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 111.16,
+          "glycemic_load": 41.88,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "grilled chicken,100g  brown rice",
+        "nutrition": {
+          "items": [
+            {
+              "food": "grilled chicken",
+              "quantity": 1,
+              "calories": 167.37,
+              "protein": 12.08,
+              "carbs": 18.82,
+              "fat": 5.32,
+              "fiber": 1.64
+            },
+            {
+              "food": "g  brown rice",
+              "quantity": 100,
+              "calories": 18000,
+              "protein": 400,
+              "carbs": 4000,
+              "fat": 100,
+              "fiber": 100
+            }
+          ],
+          "totals": {
+            "calories": 18167.37,
+            "protein": 412.08,
+            "carbs": 4018.82,
+            "fat": 105.32,
+            "fiber": 101.64,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 220,
+          "glycemic_load": 3917.18,
+          "risk_level": "High",
+          "caution": "\u26a0 High glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 cup green tea, 5 almonds",
+        "nutrition": {
+          "items": [
+            {
+              "food": "green tea",
+              "quantity": 1,
+              "calories": 2,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0
+            },
+            {
+              "food": "almonds",
+              "quantity": 5,
+              "calories": 450,
+              "protein": 15,
+              "carbs": 15,
+              "fat": 40,
+              "fiber": 10
+            }
+          ],
+          "totals": {
+            "calories": 452,
+            "protein": 15,
+            "carbs": 15,
+            "fat": 40,
+            "fiber": 10,
+            "meal_quality_score": 80
+          }
+        },
+        "glucose": {
+          "predicted_peak": 114.79,
+          "glycemic_load": 5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "\n2 boiled eggs, 1 small bowl yogurt",
+        "nutrition": {
+          "items": [
+            {
+              "food": "boiled eggs",
+              "quantity": 2,
+              "calories": 140,
+              "protein": 12,
+              "carbs": 2,
+              "fat": 10,
+              "fiber": 0
+            },
+            {
+              "food": "yogurt",
+              "quantity": 1,
+              "calories": 107.18,
+              "protein": 5.27,
+              "carbs": 16.02,
+              "fat": 2.89,
+              "fiber": 0.08
+            }
+          ],
+          "totals": {
+            "calories": 247.18,
+            "protein": 17.27,
+            "carbs": 18.02,
+            "fat": 12.89,
+            "fiber": 0.08,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 116.35,
+          "glycemic_load": 17.94,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds",
+        "nutrition": {
+          "items": [
+            {
+              "food": "oats smoothie",
+              "quantity": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "milk",
+              "quantity": 1,
+              "calories": 120,
+              "protein": 6,
+              "carbs": 10,
+              "fat": 5,
+              "fiber": 0
+            },
+            {
+              "food": "chia seeds",
+              "quantity": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "apple",
+              "quantity": 1,
+              "calories": 55.72,
+              "protein": 1.66,
+              "carbs": 7.62,
+              "fat": 2.23,
+              "fiber": 0.0
+            },
+            {
+              "food": "almonds",
+              "quantity": 1,
+              "calories": 90,
+              "protein": 3,
+              "carbs": 3,
+              "fat": 8,
+              "fiber": 2
+            }
+          ],
+          "totals": {
+            "calories": 437.0,
+            "protein": 17.64,
+            "carbs": 46.76,
+            "fat": 20.19,
+            "fiber": 4.88,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 125.87,
+          "glycemic_load": 41.88,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "grilled chicken,100g  brown rice\n",
+        "nutrition": {
+          "items": [
+            {
+              "food": "grilled chicken",
+              "quantity": 1,
+              "calories": 167.37,
+              "protein": 12.08,
+              "carbs": 18.82,
+              "fat": 5.32,
+              "fiber": 1.64
+            },
+            {
+              "food": "g  brown rice",
+              "quantity": 100,
+              "calories": 18000,
+              "protein": 400,
+              "carbs": 4000,
+              "fat": 100,
+              "fiber": 100
+            }
+          ],
+          "totals": {
+            "calories": 18167.37,
+            "protein": 412.08,
+            "carbs": 4018.82,
+            "fat": 105.32,
+            "fiber": 101.64,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 220,
+          "glycemic_load": 3917.18,
+          "risk_level": "High",
+          "caution": "\u26a0 High glucose spike predicted."
+        }
+      },
+      {
+        "meal": "\n1 cup green tea, 5 almonds",
+        "nutrition": {
+          "items": [
+            {
+              "food": "green tea",
+              "quantity": 1,
+              "calories": 2,
+              "protein": 0,
+              "carbs": 0,
+              "fat": 0,
+              "fiber": 0
+            },
+            {
+              "food": "almonds",
+              "quantity": 5,
+              "calories": 450,
+              "protein": 15,
+              "carbs": 15,
+              "fat": 40,
+              "fiber": 10
+            }
+          ],
+          "totals": {
+            "calories": 452,
+            "protein": 15,
+            "carbs": 15,
+            "fat": 40,
+            "fiber": 10,
+            "meal_quality_score": 80
+          }
+        },
+        "glucose": {
+          "predicted_peak": 107.68,
+          "glycemic_load": 5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "\n2 boiled eggs, 1 small bowl yogurt",
+        "nutrition": {
+          "items": [
+            {
+              "food": "boiled eggs",
+              "quantity": 2,
+              "calories": 140,
+              "protein": 12,
+              "carbs": 2,
+              "fat": 10,
+              "fiber": 0
+            },
+            {
+              "food": "yogurt",
+              "quantity": 1,
+              "calories": 107.18,
+              "protein": 5.27,
+              "carbs": 16.02,
+              "fat": 2.89,
+              "fiber": 0.08
+            }
+          ],
+          "totals": {
+            "calories": 247.18,
+            "protein": 17.27,
+            "carbs": 18.02,
+            "fat": 12.89,
+            "fiber": 0.08,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 114.58,
+          "glycemic_load": 17.94,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "\n1 bowl oats smoothie with milk, chia seeds, apple, almonds",
+        "nutrition": {
+          "calories": 293.26,
+          "protein": 18.07,
+          "carbs": 31.47,
+          "fat": 22.11,
+          "fiber": 5.07,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 116.67,
+          "glycemic_load": 26.4,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds\n",
+        "nutrition": {
+          "calories": 293.26,
+          "protein": 18.07,
+          "carbs": 31.47,
+          "fat": 22.11,
+          "fiber": 5.07,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 115.3,
+          "glycemic_load": 26.4,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "grilled chicken,100g  brown rice\n",
+        "nutrition": {
+          "calories": 279.81,
+          "protein": 15.7,
+          "carbs": 34.39,
+          "fat": 9.31,
+          "fiber": 2.01,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 119.48,
+          "glycemic_load": 32.38,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 cup green tea, 5 almonds\n",
+        "nutrition": {
+          "calories": 94.79,
+          "protein": 10.52,
+          "carbs": 6.26,
+          "fat": 14.33,
+          "fiber": 0.91,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 103.03,
+          "glycemic_load": 5.35,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 boiled eggs, 1 small bowl yogurt\n",
+        "nutrition": {
+          "calories": 62.21,
+          "protein": 6.08,
+          "carbs": 2.88,
+          "fat": 3.68,
+          "fiber": 1.2,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 101.46,
+          "glycemic_load": 1.68,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl rice, dal, vegetable",
+        "nutrition": {
+          "calories": 624.94,
+          "protein": 14.87,
+          "carbs": 68.8,
+          "fat": 32.44,
+          "fiber": 9.18,
+          "meal_quality_score": 65
+        },
+        "glucose": {
+          "predicted_peak": 134.41,
+          "glycemic_load": 59.62,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds",
+        "nutrition": {
+          "calories": 293.26,
+          "protein": 18.07,
+          "carbs": 31.47,
+          "fat": 22.11,
+          "fiber": 5.07,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 115.04,
+          "glycemic_load": 26.4,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "\ngrilled chicken,100g  brown rice",
+        "nutrition": {
+          "calories": 279.81,
+          "protein": 15.7,
+          "carbs": 34.39,
+          "fat": 9.31,
+          "fiber": 2.01,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 119.88,
+          "glycemic_load": 32.38,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 cup green tea, 5 almonds",
+        "nutrition": {
+          "calories": 94.79,
+          "protein": 10.52,
+          "carbs": 6.26,
+          "fat": 14.33,
+          "fiber": 0.91,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 103.91,
+          "glycemic_load": 5.35,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 boiled eggs, 1 small bowl yogurt",
+        "nutrition": {
+          "calories": 62.21,
+          "protein": 6.08,
+          "carbs": 2.88,
+          "fat": 3.68,
+          "fiber": 1.2,
+          "meal_quality_score": 70
+        },
+        "glucose": {
+          "predicted_peak": 102.94,
+          "glycemic_load": 1.68,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 146.87,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 147.43,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 147.94,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 148.42,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer curry",
+              "quantity_multiplier": 1,
+              "calories": 176.52,
+              "protein": 7.8,
+              "carbs": 8.4,
+              "fat": 12.38,
+              "fiber": 1.4
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60.28,
+              "protein": 4.23,
+              "carbs": 7.03,
+              "fat": 1.5,
+              "fiber": 3.79
+            }
+          ],
+          "totals": {
+            "calories": 641.42,
+            "protein": 23.79,
+            "carbs": 86.73,
+            "fat": 21.0,
+            "fiber": 17.81,
+            "meal_quality_score": 90
+          }
+        },
+        "glucose": {
+          "predicted_peak": 139.34,
+          "glycemic_load": 68.92,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 idli, 1 bowl  sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 2,
+              "calories": 275.08,
+              "protein": 9.28,
+              "carbs": 56.36,
+              "fat": 0.66,
+              "fiber": 4.62
+            },
+            {
+              "food": "bowl  sambar",
+              "quantity_multiplier": 1,
+              "calories": 96.92,
+              "protein": 3.35,
+              "carbs": 10.57,
+              "fat": 4.38,
+              "fiber": 3.52
+            }
+          ],
+          "totals": {
+            "calories": 372.0,
+            "protein": 12.63,
+            "carbs": 66.93,
+            "fat": 5.04,
+            "fiber": 8.14,
+            "meal_quality_score": 75
+          }
+        },
+        "glucose": {
+          "predicted_peak": 137.3,
+          "glycemic_load": 58.79,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 millet roti, dal, salad\n",
+        "nutrition": {
+          "items": [
+            {
+              "food": "millet roti",
+              "quantity_multiplier": 2,
+              "calories": 639.32,
+              "protein": 19.22,
+              "carbs": 101.96,
+              "fat": 16.12,
+              "fiber": 12.0
+            },
+            {
+              "food": "dal",
+              "quantity_multiplier": 1,
+              "calories": 61.93,
+              "protein": 2.51,
+              "carbs": 5.79,
+              "fat": 3.1,
+              "fiber": 1.62
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60.28,
+              "protein": 4.23,
+              "carbs": 7.03,
+              "fat": 1.5,
+              "fiber": 3.79
+            }
+          ],
+          "totals": {
+            "calories": 761.53,
+            "protein": 25.96,
+            "carbs": 114.78,
+            "fat": 20.72,
+            "fiber": 17.41,
+            "meal_quality_score": 80
+          }
+        },
+        "glucose": {
+          "predicted_peak": 156.36,
+          "glycemic_load": 97.37,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "green tea, 1 small bowl sprouts\n",
+        "nutrition": {
+          "items": [
+            {
+              "food": "green tea",
+              "quantity_multiplier": 1,
+              "calories": 24.9,
+              "protein": 0.17,
+              "carbs": 5.23,
+              "fat": 0.51,
+              "fiber": 0.16
+            },
+            {
+              "food": "small bowl sprouts",
+              "quantity_multiplier": 1,
+              "calories": 37.81,
+              "protein": 2.29,
+              "carbs": 5.48,
+              "fat": 0.74,
+              "fiber": 0.95
+            }
+          ],
+          "totals": {
+            "calories": 62.71,
+            "protein": 2.46,
+            "carbs": 10.71,
+            "fat": 1.25,
+            "fiber": 1.11,
+            "meal_quality_score": 60
+          }
+        },
+        "glucose": {
+          "predicted_peak": 110.87,
+          "glycemic_load": 9.6,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl paneer curry, vegetable soup",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl paneer curry",
+              "quantity_multiplier": 1,
+              "calories": 176.52,
+              "protein": 7.8,
+              "carbs": 8.4,
+              "fat": 12.38,
+              "fiber": 1.4
+            },
+            {
+              "food": "vegetable soup",
+              "quantity_multiplier": 1,
+              "calories": 35.71,
+              "protein": 8.22,
+              "carbs": 2.95,
+              "fat": 11.66,
+              "fiber": 1.64
+            }
+          ],
+          "totals": {
+            "calories": 212.23,
+            "protein": 16.02,
+            "carbs": 11.35,
+            "fat": 24.04,
+            "fiber": 3.04,
+            "meal_quality_score": 60
+          }
+        },
+        "glucose": {
+          "predicted_peak": 104.71,
+          "glycemic_load": 8.31,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 148.87,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 149.21,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 149.54,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl white rice, potato fry",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl white rice",
+              "quantity_multiplier": 1.5,
+              "calories": 168.66,
+              "protein": 5.43,
+              "carbs": 23.36,
+              "fat": 5.99,
+              "fiber": 0.55
+            },
+            {
+              "food": "potato fry",
+              "quantity_multiplier": 1,
+              "calories": 164.9,
+              "protein": 4.6,
+              "carbs": 25.17,
+              "fat": 5.43,
+              "fiber": 2.89
+            }
+          ],
+          "totals": {
+            "calories": 333.56,
+            "protein": 10.03,
+            "carbs": 48.53,
+            "fat": 11.41,
+            "fiber": 3.45,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 122.22,
+          "glycemic_load": 45.08,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            },
+            {
+              "food": "paneer",
+              "quantity_multiplier": 1,
+              "calories": 262.97,
+              "protein": 7.98,
+              "carbs": 24.33,
+              "fat": 14.62,
+              "fiber": 4.0
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 762.67,
+            "protein": 23.62,
+            "carbs": 103.98,
+            "fat": 26.81,
+            "fiber": 18.27,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 149.69,
+          "glycemic_load": 85.71,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "4 idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 4.0,
+              "calories": 550.16,
+              "protein": 18.56,
+              "carbs": 112.72,
+              "fat": 1.32,
+              "fiber": 9.24
+            },
+            {
+              "food": "bowl sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 145.38,
+              "protein": 5.03,
+              "carbs": 15.86,
+              "fat": 6.57,
+              "fiber": 5.28
+            }
+          ],
+          "totals": {
+            "calories": 695.54,
+            "protein": 23.59,
+            "carbs": 128.57,
+            "fat": 7.89,
+            "fiber": 14.52,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 168.88,
+          "glycemic_load": 114.05,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds\n",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl oats oats",
+              "quantity_multiplier": 1.5,
+              "calories": 128.46,
+              "protein": 5.24,
+              "carbs": 19.61,
+              "fat": 3.72,
+              "fiber": 2.16
+            },
+            {
+              "food": "milk",
+              "quantity_multiplier": 1,
+              "calories": 56.9,
+              "protein": 1.73,
+              "carbs": 7.23,
+              "fat": 2.35,
+              "fiber": 0.26
+            },
+            {
+              "food": "chia seeds",
+              "quantity_multiplier": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "apple",
+              "quantity_multiplier": 1,
+              "calories": 55.72,
+              "protein": 1.66,
+              "carbs": 7.62,
+              "fat": 2.23,
+              "fiber": 0.0
+            },
+            {
+              "food": "almonds",
+              "quantity_multiplier": 0.3,
+              "calories": 23.6,
+              "protein": 3.04,
+              "carbs": 1.1,
+              "fat": 4.14,
+              "fiber": 0.27
+            }
+          ],
+          "totals": {
+            "calories": 350.32,
+            "protein": 15.15,
+            "carbs": 48.63,
+            "fat": 14.92,
+            "fiber": 4.13,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 124.7,
+          "glycemic_load": 44.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "4  idli,  1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 4.0,
+              "calories": 550.16,
+              "protein": 18.56,
+              "carbs": 112.72,
+              "fat": 1.32,
+              "fiber": 9.24
+            },
+            {
+              "food": "bowl sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 145.38,
+              "protein": 5.03,
+              "carbs": 15.86,
+              "fat": 6.57,
+              "fiber": 5.28
+            }
+          ],
+          "totals": {
+            "calories": 695.54,
+            "protein": 23.59,
+            "carbs": 128.57,
+            "fat": 7.89,
+            "fiber": 14.52,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 169.32,
+          "glycemic_load": 114.05,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl oats smoothie with milk, chia seeds, apple, almonds",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl oats oats",
+              "quantity_multiplier": 1.5,
+              "calories": 128.46,
+              "protein": 5.24,
+              "carbs": 19.61,
+              "fat": 3.72,
+              "fiber": 2.16
+            },
+            {
+              "food": "milk",
+              "quantity_multiplier": 1,
+              "calories": 56.9,
+              "protein": 1.73,
+              "carbs": 7.23,
+              "fat": 2.35,
+              "fiber": 0.26
+            },
+            {
+              "food": "chia seeds",
+              "quantity_multiplier": 1,
+              "calories": 85.64,
+              "protein": 3.49,
+              "carbs": 13.07,
+              "fat": 2.48,
+              "fiber": 1.44
+            },
+            {
+              "food": "apple",
+              "quantity_multiplier": 1,
+              "calories": 55.72,
+              "protein": 1.66,
+              "carbs": 7.62,
+              "fat": 2.23,
+              "fiber": 0.0
+            },
+            {
+              "food": "almonds",
+              "quantity_multiplier": 0.3,
+              "calories": 23.6,
+              "protein": 3.04,
+              "carbs": 1.1,
+              "fat": 4.14,
+              "fiber": 0.27
+            }
+          ],
+          "totals": {
+            "calories": 350.32,
+            "protein": 15.15,
+            "carbs": 48.63,
+            "fat": 14.92,
+            "fiber": 4.13,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 129.1,
+          "glycemic_load": 44.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "grilled chicken,100g  brown rice",
+        "nutrition": {
+          "items": [
+            {
+              "food": "grilled chicken",
+              "quantity_multiplier": 1,
+              "calories": 167.37,
+              "protein": 12.08,
+              "carbs": 18.82,
+              "fat": 5.32,
+              "fiber": 1.64
+            },
+            {
+              "food": "g  brown rice",
+              "quantity_multiplier": 1.0,
+              "calories": 112.44,
+              "protein": 3.62,
+              "carbs": 15.57,
+              "fat": 3.99,
+              "fiber": 0.37
+            }
+          ],
+          "totals": {
+            "calories": 279.81,
+            "protein": 15.7,
+            "carbs": 34.39,
+            "fat": 9.31,
+            "fiber": 2.01,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 122.21,
+          "glycemic_load": 32.38,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "\n1 cup green tea, 5 almonds",
+        "nutrition": {
+          "items": [
+            {
+              "food": "cup green green tea",
+              "quantity_multiplier": 1.5,
+              "calories": 15.51,
+              "protein": 0.04,
+              "carbs": 4.05,
+              "fat": 0.01,
+              "fiber": 0.0
+            },
+            {
+              "food": "almonds",
+              "quantity_multiplier": 1.5,
+              "calories": 117.98,
+              "protein": 15.2,
+              "carbs": 5.52,
+              "fat": 20.7,
+              "fiber": 1.36
+            }
+          ],
+          "totals": {
+            "calories": 133.49,
+            "protein": 15.24,
+            "carbs": 9.57,
+            "fat": 20.72,
+            "fiber": 1.36,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 106.5,
+          "glycemic_load": 8.21,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 boiled eggs, 1 small bowl yogurt",
+        "nutrition": {
+          "items": [
+            {
+              "food": "boiled eggs",
+              "quantity_multiplier": 2.0,
+              "calories": 90.7,
+              "protein": 8.86,
+              "carbs": 0.24,
+              "fat": 6.08,
+              "fiber": 0.22
+            },
+            {
+              "food": "small bowl yogurt",
+              "quantity_multiplier": 1.5,
+              "calories": 54.2,
+              "protein": 3.13,
+              "carbs": 7.08,
+              "fat": 1.4,
+              "fiber": 2.49
+            }
+          ],
+          "totals": {
+            "calories": 144.9,
+            "protein": 11.99,
+            "carbs": 7.32,
+            "fat": 7.47,
+            "fiber": 2.71,
+            "meal_quality_score": 65
+          }
+        },
+        "glucose": {
+          "predicted_peak": 105.96,
+          "glycemic_load": 4.61,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "3  idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 3.0,
+              "calories": 412.62,
+              "protein": 13.92,
+              "carbs": 84.54,
+              "fat": 0.99,
+              "fiber": 6.93
+            },
+            {
+              "food": "bowl sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 145.38,
+              "protein": 5.03,
+              "carbs": 15.86,
+              "fat": 6.57,
+              "fiber": 5.28
+            }
+          ],
+          "totals": {
+            "calories": 558.0,
+            "protein": 18.95,
+            "carbs": 100.39,
+            "fat": 7.56,
+            "fiber": 12.21,
+            "meal_quality_score": 75
+          }
+        },
+        "glucose": {
+          "predicted_peak": 146.86,
+          "glycemic_load": 88.18,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl fish curry, 2 chapati",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl fish curry",
+              "quantity_multiplier": 1.5,
+              "calories": 211.02,
+              "protein": 8.5,
+              "carbs": 21.16,
+              "fat": 9.92,
+              "fiber": 11.98
+            },
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            }
+          ],
+          "totals": {
+            "calories": 615.64,
+            "protein": 20.27,
+            "carbs": 92.47,
+            "fat": 17.04,
+            "fiber": 24.6,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 141.15,
+          "glycemic_load": 67.87,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "3  idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 3.0,
+              "calories": 412.62,
+              "protein": 13.92,
+              "carbs": 84.54,
+              "fat": 0.99,
+              "fiber": 6.93
+            },
+            {
+              "food": "bowl sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 145.38,
+              "protein": 5.03,
+              "carbs": 15.86,
+              "fat": 6.57,
+              "fiber": 5.28
+            }
+          ],
+          "totals": {
+            "calories": 558.0,
+            "protein": 18.95,
+            "carbs": 100.39,
+            "fat": 7.56,
+            "fiber": 12.21,
+            "meal_quality_score": 75
+          }
+        },
+        "glucose": {
+          "predicted_peak": 154.65,
+          "glycemic_load": 88.18,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "2 millet roti, dal, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "millet chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 639.32,
+              "protein": 19.22,
+              "carbs": 101.96,
+              "fat": 16.12,
+              "fiber": 12.0
+            },
+            {
+              "food": "lentils",
+              "quantity_multiplier": 1,
+              "calories": 34.79,
+              "protein": 2.22,
+              "carbs": 6.04,
+              "fat": 0.12,
+              "fiber": 1.22
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 95.08,
+              "protein": 3.88,
+              "carbs": 8.35,
+              "fat": 5.07,
+              "fiber": 1.65
+            }
+          ],
+          "totals": {
+            "calories": 769.19,
+            "protein": 25.32,
+            "carbs": 116.35,
+            "fat": 21.31,
+            "fiber": 14.87,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 160.25,
+          "glycemic_load": 101.48,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 cup green tea, 1 small bowl  sprouts",
+        "nutrition": {
+          "items": [
+            {
+              "food": "cup green green tea",
+              "quantity_multiplier": 1.5,
+              "calories": 15.51,
+              "protein": 0.04,
+              "carbs": 4.05,
+              "fat": 0.01,
+              "fiber": 0.0
+            },
+            {
+              "food": "small bowl  sprouts",
+              "quantity_multiplier": 1.5,
+              "calories": 474.38,
+              "protein": 14.25,
+              "carbs": 67.44,
+              "fat": 15.66,
+              "fiber": 10.74
+            }
+          ],
+          "totals": {
+            "calories": 489.88,
+            "protein": 14.29,
+            "carbs": 71.49,
+            "fat": 15.68,
+            "fiber": 10.74,
+            "meal_quality_score": 80
+          }
+        },
+        "glucose": {
+          "predicted_peak": 138.89,
+          "glycemic_load": 60.75,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl paneer curry, vegetable soup",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl paneer",
+              "quantity_multiplier": 1.5,
+              "calories": 374.34,
+              "protein": 18.6,
+              "carbs": 36.08,
+              "fat": 17.97,
+              "fiber": 3.18
+            },
+            {
+              "food": "vegetable soup",
+              "quantity_multiplier": 1,
+              "calories": 55.21,
+              "protein": 2.22,
+              "carbs": 7.6,
+              "fat": 1.55,
+              "fiber": 3.01
+            }
+          ],
+          "totals": {
+            "calories": 429.55,
+            "protein": 20.82,
+            "carbs": 43.68,
+            "fat": 19.52,
+            "fiber": 6.19,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 123.31,
+          "glycemic_load": 37.49,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl fish curry, 2 chapati",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl fish curry",
+              "quantity_multiplier": 1.5,
+              "calories": 211.02,
+              "protein": 8.5,
+              "carbs": 21.16,
+              "fat": 9.92,
+              "fiber": 11.98
+            },
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2.0,
+              "calories": 404.62,
+              "protein": 11.76,
+              "carbs": 71.3,
+              "fat": 7.12,
+              "fiber": 12.62
+            }
+          ],
+          "totals": {
+            "calories": 615.64,
+            "protein": 20.27,
+            "carbs": 92.47,
+            "fat": 17.04,
+            "fiber": 24.6,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 141.78,
+          "glycemic_load": 67.87,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "1 bowl rice, chicken curry, curd",
+        "nutrition": {
+          "items": [
+            {
+              "food": "bowl rice",
+              "quantity_multiplier": 1.5,
+              "calories": 168.66,
+              "protein": 5.43,
+              "carbs": 23.36,
+              "fat": 5.99,
+              "fiber": 0.55
+            },
+            {
+              "food": "chicken",
+              "quantity_multiplier": 1,
+              "calories": 253.27,
+              "protein": 13.12,
+              "carbs": 25.38,
+              "fat": 11.75,
+              "fiber": 1.64
+            },
+            {
+              "food": "yogurt",
+              "quantity_multiplier": 1,
+              "calories": 107.18,
+              "protein": 5.27,
+              "carbs": 16.02,
+              "fat": 2.89,
+              "fiber": 0.08
+            }
+          ],
+          "totals": {
+            "calories": 529.11,
+            "protein": 23.82,
+            "carbs": 64.75,
+            "fat": 20.62,
+            "fiber": 2.27,
+            "meal_quality_score": 80
+          }
+        },
+        "glucose": {
+          "predicted_peak": 137.56,
+          "glycemic_load": 62.48,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "3  idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 3,
+              "calories": 210,
+              "protein": 6,
+              "carbs": 45,
+              "fat": 1.2,
+              "fiber": 3
+            },
+            {
+              "food": "sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 142.5,
+              "protein": 6.0,
+              "carbs": 18.0,
+              "fat": 4.5,
+              "fiber": 6.0
+            }
+          ],
+          "totals": {
+            "calories": 352.5,
+            "protein": 12.0,
+            "carbs": 63.0,
+            "fat": 5.7,
+            "fiber": 9.0,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 132.37,
+          "glycemic_load": 54.0,
+          "risk_level": "Moderate",
+          "caution": "\u26a0 Moderate glucose spike predicted."
+        }
+      },
+      {
+        "meal": "protein shake, peanuts",
+        "nutrition": {
+          "items": [
+            {
+              "food": "protein shake",
+              "quantity_multiplier": 1,
+              "calories": 68.91,
+              "protein": 3.45,
+              "carbs": 6.26,
+              "fat": 3.34,
+              "fiber": 0.84
+            },
+            {
+              "food": "peanuts",
+              "quantity_multiplier": 1,
+              "calories": 193.28,
+              "protein": 5.32,
+              "carbs": 21.18,
+              "fat": 9.51,
+              "fiber": 2.9
+            }
+          ],
+          "totals": {
+            "calories": 262.19,
+            "protein": 8.77,
+            "carbs": 27.44,
+            "fat": 12.85,
+            "fiber": 3.74,
+            "meal_quality_score": 70
+          }
+        },
+        "glucose": {
+          "predicted_peak": 98.1,
+          "glycemic_load": 21.83,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 millet roti, dal, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "millet roti",
+              "quantity_multiplier": 2,
+              "calories": 240,
+              "protein": 6,
+              "carbs": 36,
+              "fat": 6,
+              "fiber": 4
+            },
+            {
+              "food": "dal",
+              "quantity_multiplier": 1,
+              "calories": 268.24,
+              "protein": 6.78,
+              "carbs": 30.03,
+              "fat": 13.05,
+              "fiber": 6.46
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60,
+              "protein": 2,
+              "carbs": 8,
+              "fat": 2,
+              "fiber": 4
+            }
+          ],
+          "totals": {
+            "calories": 568.24,
+            "protein": 14.78,
+            "carbs": 74.03,
+            "fat": 21.05,
+            "fiber": 14.46,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 108.69,
+          "glycemic_load": 52.34,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 millet roti, dal, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "millet roti",
+              "quantity_multiplier": 2,
+              "calories": 240,
+              "protein": 6,
+              "carbs": 36,
+              "fat": 6,
+              "fiber": 4
+            },
+            {
+              "food": "dal",
+              "quantity_multiplier": 1,
+              "calories": 268.24,
+              "protein": 6.78,
+              "carbs": 30.03,
+              "fat": 13.05,
+              "fiber": 6.46
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60,
+              "protein": 2,
+              "carbs": 8,
+              "fat": 2,
+              "fiber": 4
+            }
+          ],
+          "totals": {
+            "calories": 568.24,
+            "protein": 14.78,
+            "carbs": 74.03,
+            "fat": 21.05,
+            "fiber": 14.46,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 115.54,
+          "glycemic_load": 52.34,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2,
+              "calories": 240,
+              "protein": 6,
+              "carbs": 36,
+              "fat": 6,
+              "fiber": 4
+            },
+            {
+              "food": "paneer curry",
+              "quantity_multiplier": 1,
+              "calories": 220,
+              "protein": 18,
+              "carbs": 6,
+              "fat": 14,
+              "fiber": 1
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60,
+              "protein": 2,
+              "carbs": 8,
+              "fat": 2,
+              "fiber": 4
+            }
+          ],
+          "totals": {
+            "calories": 520,
+            "protein": 26,
+            "carbs": 50,
+            "fat": 22,
+            "fiber": 9,
+            "meal_quality_score": 100
+          }
+        },
+        "glucose": {
+          "predicted_peak": 101.67,
+          "glycemic_load": 36.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "3  idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 3,
+              "calories": 210,
+              "protein": 6,
+              "carbs": 45,
+              "fat": 1.2,
+              "fiber": 3
+            },
+            {
+              "food": "sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 142.5,
+              "protein": 6.0,
+              "carbs": 18.0,
+              "fat": 4.5,
+              "fiber": 6.0
+            }
+          ],
+          "totals": {
+            "calories": 352.5,
+            "protein": 12.0,
+            "carbs": 63.0,
+            "fat": 5.7,
+            "fiber": 9.0,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 119.97,
+          "glycemic_load": 49.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "2 chapati, paneer curry, salad",
+        "nutrition": {
+          "items": [
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2,
+              "calories": 240,
+              "protein": 6,
+              "carbs": 36,
+              "fat": 6,
+              "fiber": 4
+            },
+            {
+              "food": "paneer curry",
+              "quantity_multiplier": 1,
+              "calories": 220,
+              "protein": 18,
+              "carbs": 6,
+              "fat": 14,
+              "fiber": 1
+            },
+            {
+              "food": "salad",
+              "quantity_multiplier": 1,
+              "calories": 60,
+              "protein": 2,
+              "carbs": 8,
+              "fat": 2,
+              "fiber": 4
+            }
+          ],
+          "totals": {
+            "calories": 520,
+            "protein": 26,
+            "carbs": 50,
+            "fat": 22,
+            "fiber": 9,
+            "meal_quality_score": 100
+          }
+        },
+        "glucose": {
+          "predicted_peak": 101.43,
+          "glycemic_load": 36.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "3  idli, 1 bowl sambar",
+        "nutrition": {
+          "items": [
+            {
+              "food": "idli",
+              "quantity_multiplier": 3,
+              "calories": 210,
+              "protein": 6,
+              "carbs": 45,
+              "fat": 1.2,
+              "fiber": 3
+            },
+            {
+              "food": "sambar",
+              "quantity_multiplier": 1.5,
+              "calories": 142.5,
+              "protein": 6.0,
+              "carbs": 18.0,
+              "fat": 4.5,
+              "fiber": 6.0
+            }
+          ],
+          "totals": {
+            "calories": 352.5,
+            "protein": 12.0,
+            "carbs": 63.0,
+            "fat": 5.7,
+            "fiber": 9.0,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 119.74,
+          "glycemic_load": 49.5,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "4 eggs, milk, banana",
+        "nutrition": {
+          "items": [
+            {
+              "food": "es",
+              "quantity_multiplier": 4,
+              "calories": 206.16,
+              "protein": 7.0,
+              "carbs": 26.48,
+              "fat": 8.56,
+              "fiber": 0.0
+            },
+            {
+              "food": "milk",
+              "quantity_multiplier": 1,
+              "calories": 120,
+              "protein": 6,
+              "carbs": 10,
+              "fat": 6,
+              "fiber": 0
+            },
+            {
+              "food": "banana",
+              "quantity_multiplier": 1,
+              "calories": 65.31,
+              "protein": 1.84,
+              "carbs": 9.15,
+              "fat": 2.37,
+              "fiber": 0.26
+            }
+          ],
+          "totals": {
+            "calories": 391.47,
+            "protein": 14.84,
+            "carbs": 45.63,
+            "fat": 16.93,
+            "fiber": 0.26,
+            "meal_quality_score": 70
+          }
+        },
+        "glucose": {
+          "predicted_peak": 109.3,
+          "glycemic_load": 45.24,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl rice, chicken curry, curd",
+        "nutrition": {
+          "items": [
+            {
+              "food": "rice",
+              "quantity_multiplier": 1.5,
+              "calories": 195.0,
+              "protein": 3.75,
+              "carbs": 42.0,
+              "fat": 0.75,
+              "fiber": 1.5
+            },
+            {
+              "food": "chicken curry",
+              "quantity_multiplier": 1,
+              "calories": 220,
+              "protein": 24,
+              "carbs": 2,
+              "fat": 12,
+              "fiber": 0
+            },
+            {
+              "food": "curd",
+              "quantity_multiplier": 1,
+              "calories": 90,
+              "protein": 5,
+              "carbs": 6,
+              "fat": 4,
+              "fiber": 0
+            }
+          ],
+          "totals": {
+            "calories": 505.0,
+            "protein": 32.75,
+            "carbs": 50.0,
+            "fat": 16.75,
+            "fiber": 1.5,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 101.6,
+          "glycemic_load": 47.75,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "4 eggs, milk, banana",
+        "nutrition": {
+          "items": [
+            {
+              "food": "es",
+              "quantity_multiplier": 4,
+              "calories": 206.16,
+              "protein": 7.0,
+              "carbs": 26.48,
+              "fat": 8.56,
+              "fiber": 0.0
+            },
+            {
+              "food": "milk",
+              "quantity_multiplier": 1,
+              "calories": 120,
+              "protein": 6,
+              "carbs": 10,
+              "fat": 6,
+              "fiber": 0
+            },
+            {
+              "food": "banana",
+              "quantity_multiplier": 1,
+              "calories": 65.31,
+              "protein": 1.84,
+              "carbs": 9.15,
+              "fat": 2.37,
+              "fiber": 0.26
+            }
+          ],
+          "totals": {
+            "calories": 391.47,
+            "protein": 14.84,
+            "carbs": 45.63,
+            "fat": 16.93,
+            "fiber": 0.26,
+            "meal_quality_score": 70
+          }
+        },
+        "glucose": {
+          "predicted_peak": 116.04,
+          "glycemic_load": 45.24,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl rice, chicken curry, curd",
+        "nutrition": {
+          "items": [
+            {
+              "food": "rice",
+              "quantity_multiplier": 1.5,
+              "calories": 195.0,
+              "protein": 3.75,
+              "carbs": 42.0,
+              "fat": 0.75,
+              "fiber": 1.5
+            },
+            {
+              "food": "chicken curry",
+              "quantity_multiplier": 1,
+              "calories": 220,
+              "protein": 24,
+              "carbs": 2,
+              "fat": 12,
+              "fiber": 0
+            },
+            {
+              "food": "curd",
+              "quantity_multiplier": 1,
+              "calories": 90,
+              "protein": 5,
+              "carbs": 6,
+              "fat": 4,
+              "fiber": 0
+            }
+          ],
+          "totals": {
+            "calories": 505.0,
+            "protein": 32.75,
+            "carbs": 50.0,
+            "fat": 16.75,
+            "fiber": 1.5,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 108.37,
+          "glycemic_load": 47.75,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "protein shake, peanuts",
+        "nutrition": {
+          "items": [
+            {
+              "food": "protein shake",
+              "quantity_multiplier": 1,
+              "calories": 68.91,
+              "protein": 3.45,
+              "carbs": 6.26,
+              "fat": 3.34,
+              "fiber": 0.84
+            },
+            {
+              "food": "peanuts",
+              "quantity_multiplier": 1,
+              "calories": 193.28,
+              "protein": 5.32,
+              "carbs": 21.18,
+              "fat": 9.51,
+              "fiber": 2.9
+            }
+          ],
+          "totals": {
+            "calories": 262.19,
+            "protein": 8.77,
+            "carbs": 27.44,
+            "fat": 12.85,
+            "fiber": 3.74,
+            "meal_quality_score": 70
+          }
+        },
+        "glucose": {
+          "predicted_peak": 103.72,
+          "glycemic_load": 21.83,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      },
+      {
+        "meal": "1 bowl fish curry, 2 chapati",
+        "nutrition": {
+          "items": [
+            {
+              "food": "fish curry",
+              "quantity_multiplier": 1.5,
+              "calories": 270.0,
+              "protein": 27.0,
+              "carbs": 7.5,
+              "fat": 15.0,
+              "fiber": 1.5
+            },
+            {
+              "food": "chapati",
+              "quantity_multiplier": 2,
+              "calories": 240,
+              "protein": 6,
+              "carbs": 36,
+              "fat": 6,
+              "fiber": 4
+            }
+          ],
+          "totals": {
+            "calories": 510.0,
+            "protein": 33.0,
+            "carbs": 43.5,
+            "fat": 21.0,
+            "fiber": 5.5,
+            "meal_quality_score": 85
+          }
+        },
+        "glucose": {
+          "predicted_peak": 97.85,
+          "glycemic_load": 35.25,
+          "risk_level": "Low",
+          "caution": ""
+        }
+      }
+    ]
+  }
+}
