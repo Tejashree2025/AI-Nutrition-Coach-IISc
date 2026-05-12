@@ -1,139 +1,128 @@
-# 🧠 AI Personalized Nutrition & Fitness Coach
+🥗 AI Nutrition Coach — IISc Final Project
 
-LLM + RAG Powered Adaptive Indian Nutrition Intelligence System
+LLM + RAG Powered Personalized Nutrition Recommendation System
 
----
+📌 Project Overview
 
-# 📌 Project Overview
-
-This project is an AI-powered personalized nutrition and fitness recommendation system designed for Indian dietary habits.
+AI Nutrition Coach is an intelligent personalized nutrition and meal recommendation platform developed as an IISc final project.
 
 The system combines:
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Nutrition Intelligence
-- Glucose Prediction
-- Personalized Meal Planning
-- User Memory
-- Adaptive Recommendations
+Large Language Models (LLMs)
+Retrieval Augmented Generation (RAG)
+Glucose prediction
+Personalized diet planning
+Meal tracking
+AI nutrition insights
+Indian food nutrition analysis
 
-The platform analyzes meals, predicts glucose response, generates personalized diet plans, and provides intelligent nutrition guidance.
+to generate adaptive and personalized dietary recommendations.
 
----
+🚀 Features
+✅ Personalized Diet Planning
+AI-generated Indian diet plans
+Veg / Non-Veg / Mixed support
+Weight loss / maintenance / muscle gain goals
+High protein / balanced meal plans
+✅ Meal Tracker
+Calorie estimation
+Macronutrient tracking
+Glucose prediction
+Meal quality scoring
+Nutrition insights
+✅ AI Nutrition Chatbot
+LLM powered nutrition assistant
+Indian food recommendations
+Healthy eating guidance
+✅ Glucose Prediction Engine
+Glycemic load estimation
+Meal-based glucose spike prediction
+Risk classification
+✅ Admin Dashboard
+User analytics
+Meal history monitoring
+Nutrition trends
+✅ PDF Export
+Download personalized diet plans
+🧠 AI Technologies Used
+Ollama
+Qwen LLM
+LangChain
+RAG Pipeline
+ChromaDB
+Embeddings
+Vector Search
+🛠 Tech Stack
+Technology	Usage
+Python	Core backend
+Streamlit	Frontend UI
+FastAPI	API backend
+SQLite	Database
+Pandas	Data processing
+Ollama	Local LLM
+LangChain	LLM orchestration
+ChromaDB	Vector database
+📂 Project Structure
+AI-Nutrition-Coach-IISc/
+│
+├── backend/
+├── pages/
+├── datasets/
+├── rag/
+├── chroma_db/
+├── reports/
+├── screenshots/
+│
+├── main.py
+├── database.py
+├── requirements.txt
+├── README.md
+└── nutrition_app.db
+⚙ Installation Guide
+1. Clone Repository
+git clone https://github.com/Tejashree2025/AI-Nutrition-Coach-IISc.git
+2. Install Requirements
+pip install -r requirements.txt
+🤖 Run Ollama
 
-# 🚀 Key Features
+Install Ollama:
 
-## 🍽 AI Meal Analysis
+https://ollama.com/download
 
-- Nutrition breakdown
-- Calories
-- Protein
-- Carbohydrates
-- Fiber
-- Meal quality scoring
+Run model:
 
----
+ollama run qwen:latest
+🚀 Run FastAPI Backend
+uvicorn main:app --reload
+🌐 Run Streamlit Frontend
+streamlit run Home.py
+👨‍💼 Admin Access
 
-## 🩸 Glucose Prediction Engine
+Admin access is available for evaluation and testing.
 
-- Predicts glucose spikes
-- Glycemic load estimation
-- Risk-level detection
-- Diabetic-aware recommendations
+📊 Core Modules
+Nutrition Engine
+Diet Planner
+Meal Tracker
+Glucose Prediction
+AI Chatbot
+Recommendation Engine
+RAG Retrieval Engine
+Admin Dashboard
+📈 Future Improvements
+Real-time CGM integration
+Mobile app deployment
+Voice-based nutrition assistant
+Wearable device integration
+Deep learning glucose forecasting
+👩‍💻 Developed By
 
----
+Tejashree2025
 
-## 🤖 AI Nutrition Chatbot
+IISc Final Year Project
 
-- LLM-powered chatbot
-- Personalized nutrition guidance
-- Indian food recommendations
-- Weight loss / muscle gain support
+AI Powered Personalized Nutrition Recommendation System
 
----
+📜 License
 
-## 📅 AI Personalized Diet Planning
-
-- Adaptive meal generation
-- Weekly meal rotation
-- Budget-based diet planning
-- Diabetic diet mode
-- South Indian / North Indian personalization
-
----
-
-## 🛒 Grocery Recommendation System
-
-Automatically generates:
-
-- Vegetable list
-- Protein sources
-- Healthy snacks
-- Grain recommendations
-
----
-
-## 🧠 User Memory System
-
-Stores:
-
-- Previous meals
-- Preferences
-- Allergies
-- Disliked foods
-- Historical nutrition behavior
-
----
-
-## 🔍 RAG + Embedding Pipeline
-
-- Semantic food retrieval
-- Vector database support
-- ChromaDB integration
-- Embedding-based nutrition search
-- Retrieval-Augmented Generation architecture
-
----
-
-# 🏗 System Architecture
-
-```text
-                    ┌─────────────────────┐
-                    │     User Input      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   FastAPI Backend   │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-┌───────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│ Nutrition AI │    │ Glucose Engine │    │ User Memory AI │
-└──────┬────────┘    └────────┬────────┘    └────────┬────────┘
-       │                      │                      │
-       └──────────────────────┼──────────────────────┘
-                              ▼
-                  ┌─────────────────────┐
-                  │  RAG Retrieval Layer │
-                  └──────────┬──────────┘
-                             │
-               ┌─────────────┴─────────────┐
-               ▼                           ▼
-      ┌─────────────────┐       ┌──────────────────┐
-      │ Sentence Encoder │       │   Chroma Vector  │
-      │  Embeddings AI   │       │      Database    │
-      └─────────────────┘       └──────────────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │  LLM (Qwen/Ollama)  │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ Personalized Output │
-                  └─────────────────────┘
+This project is developed for educational and research purposes.
