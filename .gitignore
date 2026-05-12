@@ -1,0 +1,8 @@
+pycache/
+*.pyc
+*.db
+memory.json
+generated_diet_plan.pdf
+chroma_db/
+rag/chroma_db/
+.env
